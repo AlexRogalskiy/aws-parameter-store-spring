@@ -4,7 +4,7 @@ This project illustrates how to externalize the Spring Boot application properti
 ## Full walk-through
 https://emsbach.medium.com/how-to-externalize-spring-boot-properties-to-an-aws-system-manager-parameter-store-2a945b1e856f
 
-##Usage
+## Usage
 Set environment variables:
 - AWS_ACCESS_KEY_ID=yourAccessKeyID
 - AWS_SECRET_ACCESS_KEY=yourAccessKey
