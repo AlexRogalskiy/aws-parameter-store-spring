@@ -15,3 +15,5 @@ before starting the application or unit test.
 [Parameter Format - Spring Cloud documentation](https://cloud.spring.io/spring-cloud-static/spring-cloud-aws/2.2.0.RELEASE/reference/html/#integrating-your-spring-cloud-application-with-the-aws-parameter-store)
 
 [Credential Configuration - AWS Java SDK Documentation](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/setup.html#setup-credentials)
+
+https://github.com/awspring/spring-cloud-aws
