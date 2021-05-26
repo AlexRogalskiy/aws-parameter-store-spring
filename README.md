@@ -17,3 +17,6 @@ before starting the application or unit test.
 [Credential Configuration - AWS Java SDK Documentation](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/setup.html#setup-credentials)
 
 https://github.com/awspring/spring-cloud-aws
+
+https://awspring.io/
+
